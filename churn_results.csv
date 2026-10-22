@@ -1,0 +1,3 @@
+Model,AUC-ROC,F1,Precyzja,Czulosc
+Regresja logistyczna,0.8809,0.7891,0.7683,0.8112
+Las losowy,0.8974,0.8117,0.7411,0.897
